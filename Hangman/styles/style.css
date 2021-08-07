@@ -1,0 +1,8 @@
+body {
+    background:base-color;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    color:rgb(204, 3, 3)
+    height 100%
+    text-align center
+    font-size 18px
+}
